@@ -17,9 +17,9 @@
 #endif
 
 /* zopfli */
-#include "zopfli/src/zopfli/deflate.h"
-#include "zopfli/src/zopfli/gzip_container.h"
-#include "zopfli/src/zopfli/zlib_container.h"
+#include "deflate.h"
+#include "gzip_container.h"
+#include "zlib_container.h"
 
 static ZEND_FUNCTION(zopfli_encode);
 static ZEND_FUNCTION(zopfli_compress);

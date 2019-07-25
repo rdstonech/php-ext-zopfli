@@ -1,4 +1,0 @@
-[submodule "zopfli"]
-	path = zopfli
-	url = https://github.com/google/zopfli.git
-	ignore = dirty
